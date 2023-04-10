@@ -4,7 +4,7 @@ import App from './App.vue'
 import './assets/main.css'
 import axios from 'axios'
 
-const API = 'http://localhost:8000/api'
+const API = 'http://158.160.29.67:8080/api'
 
 const store = createStore({
     state () {
